@@ -1,6 +1,6 @@
 +++
 title = "MakeNorth - About"
-description = "TKTK"
+description = "About MakeNorth"
 template = "prose.html"
 insert_anchor_links = "none"
 

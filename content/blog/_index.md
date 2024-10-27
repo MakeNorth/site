@@ -1,6 +1,6 @@
 +++
 title = "MakeNorth - Blog"
-description = "TKTK"
+description = "MakeNorth Blog"
 sort_by = "date"
 template = "blog.html"
 page_template = "post.html"

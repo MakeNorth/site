@@ -9,9 +9,14 @@ compile_sass = false
 build_search_index = false
 minify_html = false
 
-# Generate RSS and Atom feeds
-generate_feeds = true
-feed_filenames = ["feed.xml", "atom.xml"]
+# Generate RSS and Atom feeds; we set the global generate_feeds to 'false' and
+# then set it to true in the blog section, so that we're not publishing new
+# feeds every time we update the home or about pages.
+generate_feeds = false
+feed_filenames = [
+  "atom.xml", # must be first, so it's the default
+  "rss.xml",  # also supported
+]
 
 taxonomies = [
   { name = "categories", feed = true },
