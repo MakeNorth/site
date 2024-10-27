@@ -20,6 +20,13 @@ taxonomies = [
 
 theme = "serene"
 
+# TODO: when the following issue is fixed, use this:
+# https://github.com/getzola/zola/issues/2677
+ignored_static = [
+  #"*/typst-auto-render.js",
+  #"*/c2bda2230c7262de9e2a.wasm",
+]
+
 [markdown]
 # Code highlighting
 highlight_code = true
