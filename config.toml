@@ -1,6 +1,6 @@
 # Site information
 #base_url = "https://makenorth.ca" # TODO: finish me
-base_url = "https://makenorth.github.io/site/"
+base_url = "https://makenorth.github.io/"
 title = "MakeNorth"
 description = "MakeNorth is TKTK"
 default_language = "en"
