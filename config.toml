@@ -1,7 +1,7 @@
 # Site information
 base_url = "https://makenorth.ca"
 title = "MakeNorth"
-description = "MakeNorth is TKTK"
+description = "Crafts, home automation, electrification, and emergency preparedness"
 default_language = "en"
 
 # Build options
@@ -62,7 +62,7 @@ anchors = "on"
 [extra]
 name = "MakeNorth"
 id = "makenorth"
-bio = "MakeNorth is TKTK"
+bio = "Crafts, home automation, electrification, and emergency preparedness"
 avatar = "img/logo.png"
 
 links = [
