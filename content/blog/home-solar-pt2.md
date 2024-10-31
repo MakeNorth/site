@@ -255,5 +255,6 @@ Hydro Ottawa’s Controlling Authority disconnecting the DER.
 
 ## Up Next
 
-In the next part of this series, we'll cover how we found and chose our solar
-installer, and how we picked the specific components of our system. Stay tuned!
+In the [next part](@/blog/home-solar-pt3.md) of this series, we'll cover how we
+found and chose our solar installer, and how we picked the specific components
+of our system. Stay tuned!
